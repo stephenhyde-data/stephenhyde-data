@@ -40,6 +40,20 @@ Six practical SQL case studies covering business reporting, customer engagement,
 
 [View SQL Business Case Studies](https://github.com/stephenhyde-data/sql-business-case-studies)
 
+
+### 📷 CCTV Asset Management Dashboard — Excel
+
+An Excel-based operational dashboard for tracking camera inventory, deployments, repairs and asset availability.
+
+**Key highlights:**
+- Developed a structured asset-management workbook with automated KPI reporting.
+- Used formulas, dropdowns and linked worksheets to support consistent data entry and monitoring.
+- Created dashboard summaries showing available, deployed and unavailable cameras.
+- Published a demonstration version using entirely fictional data.
+
+[View CCTV Asset Management Dashboard](https://github.com/stephenhyde-data/cctv-asset-management-dashboard)
+  
+
 ## Technical Skills
 
 - **Excel:** Advanced formulas, PivotTables, XLOOKUP, reporting dashboards
@@ -47,6 +61,7 @@ Six practical SQL case studies covering business reporting, customer engagement,
 - **Tableau:** Interactive dashboards, data visualisation, KPI analysis
 - **Power Query:** Data preparation and transformation
 - **Python:** Currently developing programming and analytical skills
+
 
 ## Professional Interests
 
